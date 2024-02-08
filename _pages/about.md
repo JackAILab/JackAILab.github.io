@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I received a B.S. degree in Computer Science and Technology from [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China, in 2022. I am currently working toward an M.S. degree in Information and Telecommunication Engineering at the School of Electronics and Information, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China.
+I received a B.S. degree in Automation from [Nanchang University](https://www.ncu.edu.cn/), Jiangxi, China, in 2022. I am currently working toward an M.S. degree in Artificial Intelligence at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://ise.sysu.edu.cn/), Shenzhen, China.
 
 My research interests include 
 - **[Physics-Informed Machine Learning](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:physics_informed_ml)**
