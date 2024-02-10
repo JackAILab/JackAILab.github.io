@@ -23,7 +23,7 @@ I received a B.S. degree in Automation from [Nanchang University](https://www.nc
 My research interests include 
 - **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**
 - **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
-- **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
+- **[AI for Science](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
 
 
 
@@ -50,7 +50,7 @@ My research interests include
 **Jiehui Huang**, Jun Zhou, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen*
 
 **Keywords**
-- Neural Dynamics Models
+- Computer Vision and Machine Learning
 - Stability Constraints
 - State-Space Models
 
