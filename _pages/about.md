@@ -34,7 +34,7 @@ My research interests include
 - *2023.09*: &nbsp;🎉🎉 A paper is accepted by the Advanced Engineering Informatics. _(SCI, Q1, IF=8.8)_
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/pfndm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346)
