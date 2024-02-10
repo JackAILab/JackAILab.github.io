@@ -21,7 +21,7 @@ redirect_from:
 I received a B.S. degree in Automation from [Nanchang University](https://www.ncu.edu.cn/), Jiangxi, China, in 2022. I am currently working toward an M.S. degree in Artificial Intelligence at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://ise.sysu.edu.cn/), Shenzhen, China.
 
 My research interests include 
-- **[Physics-Informed Machine Learning](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:physics_informed_ml)**
+- **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**
 - **[Reliability Engineering](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:reliability_engineering)**
 - **[Condition Monitoring](https://scholar.google.com.hk/citations?view_op=search_authors&hl=zh-CN&mauthors=label:condition_monitoring)**
 
@@ -34,6 +34,11 @@ My research interests include
 - *2023.12*: &nbsp;🎉🎉 A paper is accepted by the Association for the Advancement of Artificial Intelligence(AAAI). _(CCFA)_
 - *2023.12*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. _(SCI, Q1, IF=8.8)_
 - *2023.11*: &nbsp;🎉🎉 A paper is accepted by the Neurocomputing. _(SCI, Q1, IF=8.8)_
+- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics. _(SCI, Q1, IF=2.4)_
+- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Electrical Engineering. _(SCI, Q1, IF=1.8)_
+- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Applied Intelligence. _(SCI, Q1, IF=5.3)_
+- *2021.11*: &nbsp;🎉🎉 A paper is accepted by the IET Generation, Transmission & Distribution. _(SCI, Q1, IF=3.8)_
+- *2021.11*: &nbsp;🎉🎉 A paper is accepted by the Soft Computing. _(SCI, Q1, IF=4.1)_
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
