@@ -38,9 +38,9 @@ My research interests include
 <div class='paper-box-text' markdown="1">
 
 [TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ms140429/Explainable-Neural-Dynamics-Model)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/JackAILab/TMBL)
 
-**Xinyuan Liao**, Shaowei Chen, Yunxiang Long, Shuai Zhao*
+**Jiehui Huang**, Jun Zhou, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen*
 
 **Keywords**
 - Neural Dynamics Models
