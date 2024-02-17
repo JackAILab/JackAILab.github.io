@@ -35,13 +35,18 @@ My research interest includes speech synthesis, **[Computer Vision and Machine L
 - *2023.11*: &nbsp;🎉🎉 A paper is accepted by the Neurocomputing. 
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
+
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Release academic page ~
+
+
 
 # 💻 Internships
 - *2023.10 - 2024.02*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
 - *2023.06 - 2023.09*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
 - *2022.02 - 2022.05*, [Wesure, Recommended algorithm group](https://www.wesure.cn/) (Owned by Tencent), Shenzhen.
+
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
