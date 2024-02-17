@@ -76,16 +76,17 @@ My research interests include
 
 
 # 🎖 Honors and Awards
-- *2024.01*  PCIM Europe 2024 Conference, Student Travel Grant.
-- *2023.10*  Northwestern Polytechnical University, Second Prize Scholarship.
-- *2023.09*  The 14th Challenge Cup (Growth Challenge), Provincial First Prize.
-- *2022.10*  Northwestern Polytechnical University, First Prize Scholarship.
-- *2021.10*  Ocean University of China, First Prize Scholarship.
-- *2021.10*  Ocean University of China, Model Student of Academic Records.
+- *2022.10*  The First Prize Scholarship of Sun Yat-sen University
+- *2022.06*  Outstanding Graduate of Nanchang University
+- *2021.10*  National Scholarship of NanChang University(0.7%)
+- *2021.8*  (CIMC) Siemens Cup China Intelligent Manufacturing Challenge: First Prize
+- *2020.8*  (RMUC) RoboMaster University Championship: First Prize
+- *2020.2*  A patent type for a non-blocking controllable projectile launch system: Invention Patent
 
 # 📖 Educations
-- *2022.06 - (now)*, M.S. Northwestern Polytechnical University, Information and Telecommunication Engineering. 
-- *2018.09 - 2022.06*, B.S. Ocean University of China, Computer Science and Technology.
+- *2022.06 - (now)*, M.S in Artificial Intelligence, School of Intelligent Systems Engineering, Sun Yat-sen University, Guangdong. 
+- *2018.09 - 2022.06*, B.E in Automation, School of Intelligent Systems Engineering, Nanchang University, Jiangxi, Automation.
+- *2015.09 - 2018.06*, Jiangxi Linchuan No.1 Middle School, China.
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
