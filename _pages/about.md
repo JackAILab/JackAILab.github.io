@@ -39,7 +39,7 @@ My research interest includes speech synthesis, **[Computer Vision and Machine L
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Release academic page
+- *2024.02*: &nbsp; We are working on the controllable high-fidelity face AIGC project (compare [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file))
 - *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
 - *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
