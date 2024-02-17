@@ -38,9 +38,9 @@ My research interest includes speech synthesis, **[Computer Vision and Machine L
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Release academic page ~
-
-
+- *2024.02*: &nbsp;🎉🎉 Release academic page
+- *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
+- *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
 # 💻 Internships
 - *2023.10 - 2024.02*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
