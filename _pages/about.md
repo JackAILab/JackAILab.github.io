@@ -30,7 +30,6 @@ My research interests include
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Received the Student Travel Grant from the [PCIM Europe](https://pcim.mesago.com/nuernberg/en/conference.html) 2024 Conference.
 - *2024.01*: &nbsp;🎉🎉 A paper is accepted by the Computers in Biology and Medicine. _(SCI, Q1, IF=8.8)_
 - *2023.12*: &nbsp;🎉🎉 A paper is accepted by the Association for the Advancement of Artificial Intelligence(AAAI). _(CCFA)_
 - *2023.12*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. _(SCI, Q1, IF=8.8)_
@@ -39,10 +38,9 @@ My research interests include
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Electrical Engineering. _(SCI, Q1, IF=1.8)_
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Applied Intelligence. _(SCI, Q1, IF=5.3)_
 - *2021.11*: &nbsp;🎉🎉 A paper is accepted by the IET Generation, Transmission & Distribution. _(SCI, Q1, IF=3.8)_
-- *2021.11*: &nbsp;🎉🎉 A paper is accepted by the Soft Computing. _(SCI, Q1, IF=4.1)_
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346)
@@ -50,18 +48,19 @@ My research interests include
 
 **Jiehui Huang**, Jun Zhou, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen*
 
-**Keywords**
-- Computer Vision and Machine Learning
-- Stability Constraints
-- State-Space Models
+[**Project**](https://github.com/JackAILab/TMBL) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- Considering that existing multi-modal fusion systems rarely consider fine-grained word-level interactions, we redesigned the Transformer structure, effectively improving the ACC index by 6%. 
+- In order to solve the problem of modal heterogeneity caused by multi-modal feature fusion, inspired by CLIP, a cross-model binding mechanism was designed for each modality to more effectively fuse modal features. 
+- Aiming at the modal aliasing problem caused by the difficulty in distinguishing modal features, CLS and PositionEmbedding information are designed to effectively distinguish modal space and semantic relationships.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/aei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/publications/2024AAAI_CoVL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Remaining useful life with self-attention assisted physics-informed neural network](https://doi.org/10.1016/j.aei.2023.102195)
+[/Users/jhh/Project/Github/JackAILab.github.io/_site/images/publications/2024AAAI_CoVL](https://doi.org/10.1016/j.aei.2023.102195)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
 
 **Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
