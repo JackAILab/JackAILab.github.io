@@ -58,15 +58,17 @@ My research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/publications/2024AAAI_CoVL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comprehensive View Embedding Learning for Single-cell Multimodal Integration](docs/Files/AAAI2024.pdf)
+[Comprehensive View Embedding Learning for Single-cell Multimodal Integration](https://github.com/JackAILab/JackAILab.github.io/blob/master/docs/Files/AAAI2024.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
 
-**Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
+Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian Chen*
 
-**Keywords**
-- Physics-Informed Neural Networks
-- Attention Mechanism
-- Remaining Useful Life
+[**Project**](https://github.com/JackAILab/TMBL) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- Embedding learning is performed on single-cell multi-modal data from three views, such as the regulatory relationship between different modalities and the relationship between single-cell fine-grained features in each modality.
+- By learning graph link embeddings, the proposed CoVEL can model cross-modal regulatory relationships and use biological knowledge to bridge the gap between feature spaces under different modalities.
+- To ensure that differences between modalities are eliminated and biological heterogeneity is preserved, single-cell fine-grained embeddings and contrastive cell embeddings are unsupervisedly learned on multimodal data.
+- The proposed self-supervised learning method effectively finds the information between data from the perspective of representation learning, while the generation method focuses on learning the information within the data.
 
 
 </div>
