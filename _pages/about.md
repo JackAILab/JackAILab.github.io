@@ -118,7 +118,7 @@ Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian
 - *2015.09 - 2018.06*, Jiangxi Linchuan No.1 Middle School, China. -->
 
 <div class='school-box'>
-<div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div>
+<!-- <div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div> -->
 <div class='school-box-text' markdown="1">
 2022.09 - now, M.S Student.
 
@@ -129,7 +129,7 @@ Sun Yat-sen University, Shenzhen.
 </div>
 
 <div class='school-box'>
-<div><img src='images/Schools/NCU.jpeg' alt="sym" width="80"></div>
+<!-- <div><img src='images/Schools/NCU.jpeg' alt="sym" width="80"></div> -->
 <div class='school-box-text' markdown="1">
 2018.09 - 2022.06, Undergraduate.
 
