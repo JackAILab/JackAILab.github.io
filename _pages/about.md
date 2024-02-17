@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I received a B.S. degree in Automation from [Nanchang University](https://www.ncu.edu.cn/), Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [梁小丹](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao).
+I received a B.S. degree in Automation from [Nanchang University](https://www.ncu.edu.cn/), Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang （[梁小丹]）(https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://ise.sysu.edu.cn/), Shenzhen, China.
 
 My research interest includes speech synthesis, **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Multi-modal controllable generation, cross-modal representation and fusion. I have published 10+ papers <a href='https://scholar.google.com/citations?user=LTtEqGAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the AI Conferences and Journals.
@@ -112,9 +112,31 @@ Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian
 
 
 # 📖 Educations
-- *2022.06 - (now)*, M.S in Artificial Intelligence, School of Intelligent Systems Engineering, Sun Yat-sen University, Guangdong. 
+<!-- - *2022.06 - (now)*, M.S in Artificial Intelligence, School of Intelligent Systems Engineering, Sun Yat-sen University, Guangdong. 
 - *2018.09 - 2022.06*, B.E in Automation, School of Intelligent Systems Engineering, Nanchang University, Jiangxi, Automation.
-- *2015.09 - 2018.06*, Jiangxi Linchuan No.1 Middle School, China.
+- *2015.09 - 2018.06*, Jiangxi Linchuan No.1 Middle School, China. -->
+
+<div class='school-box'>
+<div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2022.09 - now, M.S Student.
+
+Artificial Intelligence, School of Intelligent Systems Engineering(ISE).
+
+Sun Yat-sen University, Shenzhen.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/Schools/NCU.jpeg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2018.09 - 2022.06, Undergraduate.
+
+Automation, School of Intelligent Systems Engineering.
+
+Nanchang University (NCU), Nanchang.
+</div>
+</div>
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
