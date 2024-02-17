@@ -38,7 +38,6 @@ My research interest includes speech synthesis, **[Computer Vision and Machine L
 - *2023.11*: &nbsp;🎉🎉 A paper is accepted by the Neurocomputing. 
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
-
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Release academic page
 - *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
