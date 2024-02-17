@@ -19,10 +19,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I received a B.S. degree in Automation from [Nanchang University](https://www.ncu.edu.cn/), Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang （[梁小丹]）(https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao).
-I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://ise.sysu.edu.cn/), Shenzhen, China.
+I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang[(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao).
+I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China.
 
-My research interest includes speech synthesis, **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Multi-modal controllable generation, cross-modal representation and fusion. I have published 10+ papers <a href='https://scholar.google.com/citations?user=LTtEqGAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the AI Conferences and Journals.
+My research interest includes speech synthesis, **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Multi-modal controllable generation, cross-modal representation and fusion. I have published 10+ papers at the AI Conferences and Journals.
+
+<!--  <a href='https://scholar.google.com/citations?user=LTtEqGAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <!-- - **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**
 - **[Robotics](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:robotics)**
