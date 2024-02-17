@@ -1,7 +1,7 @@
 JackAILab githubio
 
-(My Homepage)[https://jackailab.github.io/]
-
+[My Homepage](https://jackailab.github.io/)
+Thank for the opensource by [Yi Ren](https://rayeren.github.io/)
 # Acknowledges
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
