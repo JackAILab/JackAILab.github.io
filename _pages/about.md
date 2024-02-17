@@ -43,9 +43,7 @@ My research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/JackAILab/TMBL)
-
+[TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346) \\
 **Jiehui Huang**, Jun Zhou, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen*
 
 [**Project**](https://github.com/JackAILab/TMBL) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -60,7 +58,7 @@ My research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/publications/2024AAAI_CoVL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[/Users/jhh/Project/Github/JackAILab.github.io/_site/images/publications/2024AAAI_CoVL](https://doi.org/10.1016/j.aei.2023.102195)
+[Comprehensive View Embedding Learning for Single-cell Multimodal Integration](docs/Files/AAAI2024.pdf)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
 
 **Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
@@ -90,3 +88,10 @@ My research interests include
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+# 💻 Internships
+- *2023.10 - 2024.02*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
+- *2023.06 - 2023.09*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
+- *2022.02 - 2022.05*, [Wesure, Recommended algorithm group](https://www.wesure.cn/) (Owned by Tencent), Shenzhen.
+
+
