@@ -39,8 +39,9 @@ My research interest includes speech synthesis, **[Computer Vision and Machine L
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
 # 🔥 News
-- *2024.02*: &nbsp; We are working on the controllable high-fidelity face AIGC project (compare [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file))
+- *2024.02*: &nbsp; We are working on the controllable high-fidelity face AIGC project (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file))
 - *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
+- *2022.10*: &nbsp;🎉🎉 Obtain the Masters Scholarship for first class from the Sun Yat-sen University.
 - *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
 # 💻 Internships
@@ -107,10 +108,9 @@ Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian
 - *2022.10*  The First Prize Scholarship of Sun Yat-sen University
 - *2022.06*  Outstanding Graduate of Nanchang University
 - *2021.10*  National Scholarship of NanChang University(0.7%)
-- *2021.8*  (CIMC) Siemens Cup China Intelligent Manufacturing Challenge: First Prize
-- *2020.8*  (RMUC) RoboMaster University Championship: First Prize
+- *2021.8*  (CIMC) Siemens Cup China Intelligent Manufacturing Challenge: National Preliminary Championship First Prize
+- *2020.8*  (RMUC) Robomaster Infantry Group: National Championship First Prize
 - *2020.2*  A patent type for a non-blocking controllable projectile launch system: Invention Patent
-
 
 # 📖 Educations
 <!-- - *2022.06 - (now)*, M.S in Artificial Intelligence, School of Intelligent Systems Engineering, Sun Yat-sen University, Guangdong. 
@@ -118,7 +118,7 @@ Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian
 - *2015.09 - 2018.06*, Jiangxi Linchuan No.1 Middle School, China. -->
 
 <div class='school-box'>
-<!-- <div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div> -->
+<div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2022.09 - now, M.S Student.
 
@@ -129,7 +129,7 @@ Sun Yat-sen University, Shenzhen.
 </div>
 
 <div class='school-box'>
-<!-- <div><img src='images/Schools/NCU.jpeg' alt="sym" width="80"></div> -->
+<div><img src='images/Schools/NCU.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2018.09 - 2022.06, Undergraduate.
 
