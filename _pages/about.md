@@ -87,7 +87,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/publications/2024AAAI_CoVL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comprehensive View Embedding Learning for Single-cell Multimodal Integration]()
+[Comprehensive View Embedding Learning for Single-cell Multimodal Integration](https://github.com/JackAILab/JackAILab.github.io/blob/master/images/publications/Files/AAAI2024_ArXiv.pdf)
 
 Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian Chen*
 
