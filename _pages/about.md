@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao).
+I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by Shencai Liao(https://shengcailiao.github.io/).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China. I am also lucky to have opportunities to collaborate with [Peter. X. Liu](https://scholar.google.com/citations?user=PUT-52IAAAAJ&hl=zh-CN) (Professor at Carleton University, IEEE Fellow), [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
 
 <!-- , [Chunquan Li](https://teacher.ncu.edu.cn/publish/004904/) (Professor at Nanchang University), [Xuedong He](https://scholar.google.com/citations?user=Jll9EQYAAAAJ&hl=zh-CN) (Tenure-track Assistant Professor at Zhejiang Normal University). -->
@@ -41,7 +41,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
 # 🔥 News
-- *2024.02*: &nbsp; We are working on the controllable high-fidelity face AIGC project (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file))
+- *2024.02*: &nbsp; We are working on the controllable high-fidelity face IMAGE and Video AIGC project (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file))
 - *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
 - *2022.10*: &nbsp;🎉🎉 Obtain the Masters Scholarship for first class from the Sun Yat-sen University.
 - *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
