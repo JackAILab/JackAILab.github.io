@@ -41,15 +41,16 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
 # 🔥 News
-- *2024.02*: &nbsp; We are working on the controllable high-fidelity face IMAGE and Video AIGC project 
+<!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
+- *2024.04*: &nbsp; Release [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 <!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
 - *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
 - *2022.10*: &nbsp;🎉🎉 Obtain the Masters Scholarship for first class from the Sun Yat-sen University.
 - *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
 # 💻 Internships
-- *2023.02 - now*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
-- *2023.10 - 2024.01*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
+- *2023.04 - now*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
+- *2023.10 - 2024.03*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
 - *2023.07 - 2023.10*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
 - *2022.02 - 2022.05*, [Wesure, Recommended algorithm group](https://www.wesure.cn/) (Owned by Tencent), Shenzhen.
 
