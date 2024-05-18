@@ -19,12 +19,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
+[Resume](https://github.com/JackAILab/JackAILab.github.io/blob/master/docs/Files/Resume.pdf), I am seeking PhD
+application opportunities and committed to collaborating with international mentors, advancing innovative solutions, and making meaningful contributions in research. 
 I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China. I am also lucky to have opportunities to collaborate with [Peter. X. Liu](https://scholar.google.com/citations?user=PUT-52IAAAAJ&hl=zh-CN) (Professor at Carleton University, IEEE Fellow), [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
 
 <!-- , [Chunquan Li](https://teacher.ncu.edu.cn/publish/004904/) (Professor at Nanchang University), [Xuedong He](https://scholar.google.com/citations?user=Jll9EQYAAAAJ&hl=zh-CN) (Tenure-track Assistant Professor at Zhejiang Normal University). -->
 
-My research interest includes **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Multi-modal controllable generation, cross-modal representation and fusion. I have published 10+ papers at the AI Conferences and Journals.
+My research interest includes **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Robotics, Bioinformatics, and Materials Science.
 
 <!--  <a href='https://scholar.google.com/citations?user=LTtEqGAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
