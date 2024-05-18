@@ -24,7 +24,7 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 
 <!-- , [Chunquan Li](https://teacher.ncu.edu.cn/publish/004904/) (Professor at Nanchang University), [Xuedong He](https://scholar.google.com/citations?user=Jll9EQYAAAAJ&hl=zh-CN) (Tenure-track Assistant Professor at Zhejiang Normal University). -->
 
-My research interest includes **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, speech synthesis, Multi-modal controllable generation, cross-modal representation and fusion. I have published 10+ papers at the AI Conferences and Journals.
+My research interest includes **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Multi-modal controllable generation, cross-modal representation and fusion. I have published 10+ papers at the AI Conferences and Journals.
 
 <!--  <a href='https://scholar.google.com/citations?user=LTtEqGAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -42,9 +42,11 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 
 # 🔥 News
 <!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
-- *2024.04*: &nbsp; Release [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
+- *2024.04*: &nbsp; Release (✨:500+)[ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 <!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
-- *2023.11*: &nbsp;🎉🎉 Two papers has been accepted by AAAI2024 and Neurocomputing.
+- *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
+- *2023.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI and Knowledge-Based Systems respectively.
+- *2023.11*: &nbsp;🎉🎉 One paper was accepted by Neurocomputing.
 - *2022.10*: &nbsp;🎉🎉 Obtain the Masters Scholarship for first class from the Sun Yat-sen University.
 - *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
@@ -57,6 +59,21 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/2024_Arxiv_ConsistentID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ConsistentID:Portrait Generation with Multimodal Fine-Grained Identity Preserving](https://doi.org/10.1016/j.knosys.2023.111346) \\
+**Jiehui Huang **, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang*
+
+[**Project**](https://github.com/JackAILab/ConsistentID), [**HuggingFace Demo**](https://huggingface.co/spaces/JackAILab/ConsistentID), (https://github.com/JackAILab/ConsistentID)  <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- We introduce ConsistentID to improve fine-grained customized facial generation by incorporating detailed descriptions of facial regions and local facial features. 
+- We devise an ID-preservation network optimized by facial attention localization strategy, enabling more accurate ID preservation and more vivid facial generation. 
+- We introduce the inaugural fine-grained facial generation dataset, FGID, addressing limitations in existing datasets for capturing diverse identity-preserving facial details. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Knowledge-Based System</div><img src='images/publications/2024KBS_TMBL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,11 +107,11 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/publications/2024AAAI_CoVL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comprehensive View Embedding Learning for Single-cell Multimodal Integration](https://github.com/JackAILab/JackAILab.github.io/blob/master/images/publications/Files/AAAI2024_ArXiv.pdf)
+[Comprehensive View Embedding Learning for Single-cell Multimodal Integration](https://ojs.aaai.org/index.php/AAAI/article/view/29453)
 
 Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian Chen*
 
-[**Project**](https://github.com/JackAILab/TMBL) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/JackAILab/scintegration) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - Embedding learning is performed on single-cell multi-modal data from three views, such as the regulatory relationship between different modalities and the relationship between single-cell fine-grained features in each modality.
 - By learning graph link embeddings, the proposed CoVEL can model cross-modal regulatory relationships and use biological knowledge to bridge the gap between feature spaces under different modalities.
