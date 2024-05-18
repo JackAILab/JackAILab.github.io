@@ -42,7 +42,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 
 # 🔥 News
 <!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
-- *2024.04*: &nbsp; Release (✨:500+)[ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
+- *2024.04*: &nbsp; Release (✨:500+), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 <!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
 - *2023.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI and Knowledge-Based Systems respectively.
@@ -63,9 +63,9 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 <div class='paper-box-text' markdown="1">
 
 [ConsistentID:Portrait Generation with Multimodal Fine-Grained Identity Preserving](https://doi.org/10.1016/j.knosys.2023.111346) \\
-**Jiehui Huang **, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang*
+**Jiehui Huang**, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang*
 
-[**Project**](https://github.com/JackAILab/ConsistentID), [**HuggingFace Demo**](https://huggingface.co/spaces/JackAILab/ConsistentID), (https://github.com/JackAILab/ConsistentID)  <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/JackAILab/ConsistentID), [**HuggingFace Demo**](https://huggingface.co/spaces/JackAILab/ConsistentID)  <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - We introduce ConsistentID to improve fine-grained customized facial generation by incorporating detailed descriptions of facial regions and local facial features. 
 - We devise an ID-preservation network optimized by facial attention localization strategy, enabling more accurate ID preservation and more vivid facial generation. 
