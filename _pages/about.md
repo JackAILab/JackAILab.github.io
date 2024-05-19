@@ -48,7 +48,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2024.04*: &nbsp; Release (✨ 500+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 <!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
-- *2023.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI and Knowledge-Based Systems respectively.
+- *2023.12*: &nbsp;🎉🎉 Two papers were accepted by AAAI and Knowledge-Based Systems respectively.
 - *2023.11*: &nbsp;🎉🎉 One paper was accepted by Neurocomputing.
 - *2022.10*: &nbsp;🎉🎉 Obtain the Masters Scholarship for first class from the Sun Yat-sen University.
 - *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
