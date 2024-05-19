@@ -19,8 +19,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-[Resume](https://github.com/JackAILab/JackAILab.github.io/blob/master/docs/Files/Resume.pdf), I am seeking PhD
+[Resume](https://drive.google.com/file/d/1SHJC4SPFYC9a-oZXrwgFEyBejYnA-JdE/view?usp=drive_link), I am seeking PhD
 application opportunities and committed to collaborating with international mentors, advancing innovative solutions, and making meaningful contributions in research. 
+
 I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China. I am also lucky to have opportunities to collaborate with [Peter. X. Liu](https://scholar.google.com/citations?user=PUT-52IAAAAJ&hl=zh-CN) (Professor at Carleton University, IEEE Fellow), [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
 
