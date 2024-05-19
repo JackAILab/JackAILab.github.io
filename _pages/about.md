@@ -65,7 +65,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/2024_Arxiv_ConsistentID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ConsistentID:Portrait Generation with Multimodal Fine-Grained Identity Preserving](https://doi.org/10.1016/j.knosys.2023.111346) \\
+[ConsistentID:Portrait Generation with Multimodal Fine-Grained Identity Preserving](https://arxiv.org/abs/2404.16771) \\
 **Jiehui Huang**, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang*
 
 [**Project**](https://github.com/JackAILab/ConsistentID), [**HuggingFace Demo**](https://huggingface.co/spaces/JackAILab/ConsistentID)  <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
