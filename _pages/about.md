@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-[Resume](https://drive.google.com/file/d/1SHJC4SPFYC9a-oZXrwgFEyBejYnA-JdE/view?usp=drive_link), I am seeking PhD
+[Resume](https://drive.google.com/file/d/1nep1uxIHunWq1RNlOcvRR79cqmmr6m6K/view?usp=sharing), I am seeking PhD
 application opportunities and committed to collaborating with international mentors, advancing innovative solutions, and making meaningful contributions in research. 
 
 I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/).
