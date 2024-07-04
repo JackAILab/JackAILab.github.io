@@ -45,8 +45,9 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
 
 # 🔥 News
+<!-- - *2024.07*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement. -->
 <!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
-- *2024.04*: &nbsp; Release (✨ 500+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
+- *2024.04*: &nbsp; Release (✨ 700+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 <!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
 - *2023.12*: &nbsp;🎉🎉 Two papers were accepted by AAAI and Knowledge-Based Systems respectively.
