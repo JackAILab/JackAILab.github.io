@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-[Resume](https://drive.google.com/file/d/1IUgYde79zNCrZ8ohi5DjPSoH_dVaYNhO/view?usp=sharing), 
+[Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing), 
 I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society. If you are interested in collaboration or wish to contact me, please feel free to reach out via [email](huangjh336@mail2.sysu.edu.cn).
 I am also seeking PhD application opportunities and committed to collaborating with international mentors, advancing innovative solutions, and making meaningful contributions in research. 
 
