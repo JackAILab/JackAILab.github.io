@@ -20,8 +20,8 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 [Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing), 
-I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society. If you are interested in collaboration or wish to contact me, please feel free to reach out via [email](huangjh336@mail2.sysu.edu.cn).
-I am also seeking PhD application opportunities and committed to collaborating with international mentors, advancing innovative solutions, and making meaningful contributions in research. 
+I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
+I am also seeking collaborating opportunities with international mentors, advancing innovative solutions, and making meaningful contributions in research. If you are interested in collaboration or wish to contact me, please feel free to reach out via [email](huangjh336@mail2.sysu.edu.cn).
 
 I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China. I am also lucky to have opportunities to collaborate with [Peter. X. Liu](https://scholar.google.com/citations?user=PUT-52IAAAAJ&hl=zh-CN) (Professor at Carleton University, IEEE Fellow), [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
@@ -47,7 +47,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 # 🔥 News
 <!-- - *2024.07*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement. -->
 <!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
-- *2024.04*: &nbsp; Release (✨ 700+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
+- *2024.04*: &nbsp; Release (✨ 800+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 <!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
 - *2023.12*: &nbsp;🎉🎉 Two papers were accepted by AAAI and Knowledge-Based Systems respectively.
