@@ -38,25 +38,25 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - **[Materials Informatics](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:materials_informatics)** -->
 
 <!-- # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 A paper is accepted by the Computers in Biology and Medicine. 
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by the Association for the Advancement of Artificial Intelligence(AAAI). 
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by the Knowledge-Based Systems. 
-- *2023.11*: &nbsp;🎉🎉 A paper is accepted by the Neurocomputing. 
-- *2022.11*: &nbsp;🎉🎉 A paper is accepted by the Mathematics.  -->
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by the Computers in Biology and Medicine. 
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by the Association for the Advancement of Artificial Intelligence(AAAI). 
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by the Knowledge-Based Systems. 
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by the Neurocomputing. 
+- *2022.11*: &nbsp;🎉🎉 One paper is accepted by the Mathematics.  -->
 
 # 🔥 News
 <!-- - *2024.07*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement. -->
 <!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
-- *2024.04*: &nbsp; Release (✨ 800+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
-<!-- (compare with [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Photomaker](https://github.com/TencentARC/PhotoMaker), [InstantID](https://github.com/InstantID/InstantID?tab=readme-ov-file)) -->
+- *2024.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Sun Yat-sen University.
+- *2024.04*: &nbsp;🎉🎉 Release (✨ 800+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
 - *2023.12*: &nbsp;🎉🎉 Two papers were accepted by AAAI and Knowledge-Based Systems respectively.
 - *2023.11*: &nbsp;🎉🎉 One paper was accepted by Neurocomputing.
-- *2022.10*: &nbsp;🎉🎉 Obtain the Masters Scholarship for first class from the Sun Yat-sen University.
-- *2021.9*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
+- *2022.10*: &nbsp;🎉🎉 Obtain the Master's Scholarship for first class from the Sun Yat-sen University.
+- *2021.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
 # 💻 Internships
-- *2023.04 - now*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
+- *2023.04 - 2024.09*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
 - *2023.10 - 2024.03*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
 - *2023.07 - 2023.10*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
 - *2022.02 - 2022.05*, [Wesure, Recommended algorithm group](https://www.wesure.cn/) (Owned by Tencent), Shenzhen.
@@ -132,9 +132,10 @@ Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian
 - ``IET Generation, Transmission & Distribution 2021`` [A decomposition‐based multi‐time dimension long short‐term memory model for short‐term electric load forecasting](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.12265), Jinglin Liu, **Jiehui Huang**, Zhiwang Zhou, Chunquan Li, Zhiyuan Liao, and Peter. X. Liu*
 
 # 🎖 Honors and Awards
+- *2024.11*  National Scholarship of Sun Yat-sen University
 - *2022.10*  The First Prize Scholarship of Sun Yat-sen University
 - *2022.06*  Outstanding Graduate of Nanchang University
-- *2021.10*  National Scholarship of NanChang University(0.7%)
+- *2021.10*  National Scholarship of Nanchang University(0.7%)
 - *2021.8*  (CIMC) Siemens Cup China Intelligent Manufacturing Challenge: National Preliminary Championship First Prize
 - *2020.8*  (RMUC) Robomaster Infantry Group: National Championship First Prize
 - *2020.2*  A patent type for a non-blocking controllable projectile launch system: Invention Patent
