@@ -168,8 +168,5 @@ Nanchang University (NCU), Nanchang.
 </div>
 
 # 🗺️ Visitor Map
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=r69yAPisnEjdANVaLxarFfRXmKprd5zYBOsyRx-aJnY"></script>
-
-
-
-
+<!-- - <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=r69yAPisnEjdANVaLxarFfRXmKprd5zYBOsyRx-aJnY"></script> -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1BsW3T6RfuLX5lSgzpKw1WesAs8K2Rnfy6xdm91Z9Y4&cl=ffffff&w=a"></script>
