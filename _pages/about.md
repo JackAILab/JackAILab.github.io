@@ -56,8 +56,8 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2021.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
 # 💻 Internships
-- *2023.04 - 2024.09*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
-- *2023.10 - 2024.03*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
+- *2024.04 - 2024.09*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
+- *2023.11 - 2024.03*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
 - *2023.07 - 2023.10*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
 - *2022.02 - 2022.05*, [Wesure, Recommended algorithm group](https://www.wesure.cn/) (Owned by Tencent), Shenzhen.
 
