@@ -45,8 +45,7 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by the Mathematics.  -->
 
 # 🔥 News
-<!-- - *2024.07*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement. -->
-<!-- - *2024.05*: &nbsp; We are working on the controllable high-fidelity Video AIGC project. -->
+- *2025.01*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement.
 - *2024.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Sun Yat-sen University.
 - *2024.04*: &nbsp;🎉🎉 Release (✨ 800+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
