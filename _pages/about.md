@@ -19,30 +19,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-[Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing), 
-I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
-I am also seeking collaborating opportunities with international mentors, advancing innovative solutions, and making meaningful contributions in research. If you are interested in collaboration or wish to contact me, please feel free to reach out via [email](huangjh336@mail2.sysu.edu.cn).
+Hi, 😊 here is HUANG Jiehui, [Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing), an incoming PhD student at [HKUST](https://seng.hkust.edu.hk/) and supervised by Prof. [Jiaya Jia](https://jiaya.me/home). I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
 
-I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/) (Professor at United Arab Emirates University, IEEE Fellow, IAPR Fellow).
+I have been relentlessly striving to see humanity achieve digital immortality and machine consciousness at the earliest opportunity.
+My primary research interest is in controllable **AIGC & VLM.** If you are interested in collaboration or wish to contact me, **please feel free to reach out via** [email](huangjh336@mail2.sysu.edu.cn).
+
+Previously, I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/) (Professor at United Arab Emirates University, IEEE Fellow, IAPR Fellow).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China. I am also lucky to have opportunities to collaborate with [Peter. X. Liu](https://scholar.google.com/citations?user=PUT-52IAAAAJ&hl=zh-CN) (Professor at Carleton University, IEEE Fellow), [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
 
-<!-- , [Chunquan Li](https://teacher.ncu.edu.cn/publish/004904/) (Professor at Nanchang University), [Xuedong He](https://scholar.google.com/citations?user=Jll9EQYAAAAJ&hl=zh-CN) (Tenure-track Assistant Professor at Zhejiang Normal University). -->
-
-My research interest includes **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**, Robotics, Bioinformatics, and Materials Science.
-
-<!--  <a href='https://scholar.google.com/citations?user=LTtEqGAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
-
-<!-- - **[Computer Vision and Machine Learning](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:computer_vision_and_machine_learning)**
-- **[Robotics](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:robotics)**
-- **[Bioinformatics](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:bioinformatics)**
-- **[Materials Informatics](https://scholar.google.com/citations?hl=zh-CN&view_op=search_authors&mauthors=label:materials_informatics)** -->
-
-<!-- # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by the Computers in Biology and Medicine. 
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by the Association for the Advancement of Artificial Intelligence(AAAI). 
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by the Knowledge-Based Systems. 
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by the Neurocomputing. 
-- *2022.11*: &nbsp;🎉🎉 One paper is accepted by the Mathematics.  -->
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement.
@@ -55,11 +39,10 @@ My research interest includes **[Computer Vision and Machine Learning](https://s
 - *2021.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Nanchang University.
 
 # 💻 Internships
-- *2024.04 - 2024.09*, with [IPAdapter](https://github.com/tencent-ailab/IP-Adapter) Team, [Tencent AI Lab](https://github.com/tencent-ailab), Shenzhen.
+- *2024.12 - 2025.03*, [Pixocial Technology Team](https://hunyuan.tencent.com/), cooperate with [Haoxiang Li](https://resume.haoxiang.org/).
+- *2024.04 - 2024.09*, [Tencent, Hunyuan Team](https://hunyuan.tencent.com/), Tencent TEG, Shenzhen.
 - *2023.11 - 2024.03*, [Lenovo, Research Institute](https://research.lenovo.com/webapp/view/researchField.html), Shenzhen.
 - *2023.07 - 2023.10*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
-- *2022.02 - 2022.05*, [Wesure, Recommended algorithm group](https://www.wesure.cn/) (Owned by Tencent), Shenzhen.
-
 
 
 # 📝 Publications 
