@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Hi, 😊 here is HUANG Jiehui, [Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing). I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
+Hi, 😊 here is HUANG Jiehui, [Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing), an incoming PhD student in 2025 fall. I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
 
 I have been relentlessly striving to see humanity achieve digital immortality and machine consciousness at the earliest opportunity.
 My primary research interest is in controllable **AIGC & VLM.** If you are interested in collaboration or wish to contact me, **please feel free to reach out via** [email](huangjh336@mail2.sysu.edu.cn).
