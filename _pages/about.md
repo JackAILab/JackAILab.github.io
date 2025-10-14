@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-Hi, 😊 here is HUANG Jiehui, [Resume](https://drive.google.com/file/d/1Rx1vb8-Cyp40oHXbNHgE-dKgjhHFfCcn/view?usp=sharing), an incoming PhD student in 2025 fall. I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
+Hi, 😊 here is HUANG Jiehui, a PhD student at HKUST and supervised by **[Jiaya Jia](https://jiaya.me/home).** I am passionate 🚀 about academic research and aim to use my research findings to address real-world challenges, thereby making meaningful and impactful contributions to society.
 
 I have been relentlessly striving to see humanity achieve digital immortality and machine consciousness at the earliest opportunity.
 My primary research interest is in controllable **AIGC & VLM.** If you are interested in collaboration or wish to contact me, **please feel free to reach out via** [email](huangjh336@mail2.sysu.edu.cn).
@@ -29,6 +29,7 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement.
 - *2024.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Sun Yat-sen University.
 - *2024.04*: &nbsp;🎉🎉 Release (✨ 800+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
@@ -130,7 +131,18 @@ Zhenchao Tang, **Jiehui Huang**, Guanxing Chen, Pengfei Wen, and Calvin Yu-Chian
 <div class='school-box'>
 <!-- <div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div> -->
 <div class='school-box-text' markdown="1">
-2022.09 - now, M.S Student.
+2025.09 - now, PhD. Student.
+
+Artificial Intelligence, Department of Computer Science and Engineering (CSE).
+
+Hong Kong University of Science and Technology, Hong Kong.
+</div>
+</div>
+
+<div class='school-box'>
+<!-- <div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div> -->
+<div class='school-box-text' markdown="1">
+2022.09 - 2025.0, M.S Student.
 
 Artificial Intelligence, School of Intelligent Systems Engineering(ISE).
 
@@ -138,7 +150,7 @@ Sun Yat-sen University, Shenzhen.
 </div>
 </div>
 
-<div class='school-box'>
+<!-- <div class='school-box'>
 <!-- <div><img src='images/Schools/NCU.jpg' alt="sym" width="80"></div> -->
 <div class='school-box-text' markdown="1">
 2018.09 - 2022.06, Undergraduate.
