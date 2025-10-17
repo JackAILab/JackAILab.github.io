@@ -47,7 +47,7 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/20256ACM_LaVieID' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/2025ACM_LaVieID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation](https://arxiv.org/abs/2508.07603) \\
@@ -157,7 +157,7 @@ Hong Kong University of Science and Technology, Hong Kong.
 <div class='school-box'>
 <!-- <div><img src='images/Schools/SYSU.jpeg' alt="sym" width="80"></div> -->
 <div class='school-box-text' markdown="1">
-2022.09 - 2025.0, M.S Student.
+2022.09 - 2025.6, M.S Student.
 
 Artificial Intelligence, School of Intelligent Systems Engineering(ISE).
 
