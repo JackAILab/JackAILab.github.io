@@ -24,7 +24,7 @@ Hi, 😊 here is HUANG Jiehui, a PhD student at HKUST and supervised by **[Jiaya
 I have been relentlessly striving to see humanity achieve digital immortality and machine consciousness at the earliest opportunity.
 My primary research interest is in controllable **AIGC & VLM.** If you are interested in collaboration or wish to contact me, **please feel free to reach out via** [email](huangjh336@mail2.sysu.edu.cn).
 
-Previously, I received a B.S. degree in Automation from **[Nanchang University](https://www.ncu.edu.cn/)**, Jiangxi, China, in 2022. I am currently working toward an M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/) (Professor at United Arab Emirates University, IEEE Fellow, IAPR Fellow).
+Previously, I received a M.S. degree, advised by Xiaodan Liang [(梁小丹)](https://scholar.google.com/citations?view_op=search_authors&mauthors=xiaodan+liang&hl=zh-CN&oi=ao), co-supervised by [Shencai Liao](https://shengcailiao.github.io/) (Professor at United Arab Emirates University, IEEE Fellow, IAPR Fellow).
 I am working in HCPLab, Artificial Intelligence at the School of Intelligent Systems Engineering, **[Sun Yat-sen University](https://ise.sysu.edu.cn/)**, Shenzhen, China. I am also lucky to have opportunities to collaborate with [Peter. X. Liu](https://scholar.google.com/citations?user=PUT-52IAAAAJ&hl=zh-CN) (Professor at Carleton University, IEEE Fellow), [Calvin Yu-Chian Chen](https://www.ece.pku.edu.cn/info/1053/2659.htm) (Professor at Peking University).
 
 
@@ -47,6 +47,21 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/20256ACM_LaVieID' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation](https://arxiv.org/abs/2508.07603) \\
+Wenhui Song, Hanhui Li, **Jiehui Huang**, Panwen Hu, Yuhao Cheng, Long Chen, Yiqiang Yan, Xiaodan Liang*
+
+[**Project**](https://github.com/ssugarwh/LaVieID) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- We propose LaVieID, a novel framework that effectively addresses the identity-preserving text-to-video generation task. 
+- We introduce a local router to provide spatial structural guidance by leveraging fine-grained facial cues. 
+- We devise a temporal autoregressive module to model longrange temporal dependencies among frames. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/2024_Arxiv_ConsistentID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -150,7 +165,7 @@ Sun Yat-sen University, Shenzhen.
 </div>
 </div>
 
-<!-- <div class='school-box'>
+<div class='school-box'>
 <!-- <div><img src='images/Schools/NCU.jpg' alt="sym" width="80"></div> -->
 <div class='school-box-text' markdown="1">
 2018.09 - 2022.06, Undergraduate.
@@ -160,6 +175,7 @@ Automation, School of Intelligent Systems Engineering.
 Nanchang University (NCU), Nanchang.
 </div>
 </div>
+
 
 <!-- 
 # 🗺️ Visitor Map
