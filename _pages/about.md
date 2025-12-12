@@ -29,10 +29,12 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Release [UnityVideo](https://github.com/dvlab-research/UnityVideo/), One Unified Multi-Modal Multi-Task Learning Video Model.
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement.
 - *2024.11*: &nbsp;🎉🎉 Obtain the National Scholarship from the Sun Yat-sen University.
-- *2024.04*: &nbsp;🎉🎉 Release (✨ 800+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
+- *2024.04*: &nbsp;🎉🎉 Release (✨ 900+ Star), [ConsistentID](https://ssugarwh.github.io/consistentid.github.io/), one high-fidelity and fast customized portrait generation model.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by Computers in Biology and Medicine.
 - *2023.12*: &nbsp;🎉🎉 Two papers were accepted by AAAI and Knowledge-Based Systems respectively.
 - *2023.11*: &nbsp;🎉🎉 One paper was accepted by Neurocomputing.
@@ -46,8 +48,23 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 - *2023.07 - 2023.10*, [SenseTime, Research Institute](https://www.sensetime.com/cn), Shenzhen.
 
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/publications/2025ACM_LaVieID.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM</div><img src='images/publications/2025_arXiv_UnityVideo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/abs/2512.07831) \\
+**Jiehui Huang**, Yuechen Zhang, Xu He, Yuan Gao, Zhi Cen, Bin Xia, Yan Zhou, Xin Tao, Pengfei Wan, Jiaya Jia
+
+[**Project**](https://jackailab.github.io/Projects/UnityVideo/) , [**Github Code**](https://github.com/dvlab-research/UnityVideo), [**Huggingface**](https://huggingface.co/JackAILab/UnityVideo)    <strong><span class='show_paper_citations' data='111EPmsAAAAJ:0EnyYjriUFMC'></span></strong>
+
+- We propose UnityVideo, a novel unified framework for integrating multiple video tasks and modalities, enabling mutual knowledge transfer, better convergence, and improved performance over single-task baselines.
+- We introduce a modality-adaptive switcher, an in-context learner, and a dynamic noise scheduling strategy that together enable efficient joint training across diverse objectives and scalability to larger datasets.
+- We construct and release OpenUni, a 1.3M-pair multimodal video dataset, and UniBench, a 30K-sample benchmark derived from Unreal Engine for fair evaluation of unified video models. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM</div><img src='images/publications/2025ACM_LaVieID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation](https://arxiv.org/abs/2508.07603) \\
@@ -83,7 +100,7 @@ Wenhui Song, Hanhui Li, **Jiehui Huang**, Panwen Hu, Yuhao Cheng, Long Chen, Yiq
 [TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis](https://doi.org/10.1016/j.knosys.2023.111346) \\
 **Jiehui Huang**, Jun Zhou, Zhenchao Tang, Jiaying Lin, and Calvin Yu-Chian Chen*
 
-[**Project**](https://github.com/JackAILab/TMBL) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://github.com/JackAILab/TMBL) <strong><span class='show_paper_citations' data='111EPmsAAAAJ:IjCSPb-OGe4C'></span></strong>
 
 - Considering that existing multi-modal fusion systems rarely consider fine-grained word-level interactions, we redesigned the Transformer structure, effectively improving the ACC index by 6%. 
 - In order to solve the problem of modal heterogeneity caused by multi-modal feature fusion, inspired by CLIP, a cross-model binding mechanism was designed for each modality to more effectively fuse modal features. 
