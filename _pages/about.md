@@ -29,7 +29,7 @@ I am working in HCPLab, Artificial Intelligence at the School of Intelligent Sys
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Release [UnityVideo](https://github.com/dvlab-research/UnityVideo/), One Unified Multi-Modal Multi-Task Learning Video Model.
+- *2025.12*: &nbsp;🎉🎉 Release [UnityVideo](https://github.com/dvlab-research/UnityVideo/), one unified multi-modal multi-task learning video model for enhancing world-aware video generation.
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by IEEE Transactions on Instrumentation & Measurement.
