@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jiehui Huang</title>
+  <meta name="description" content="Master Candidate & IEEE Student Member">
+  <link rel="icon" href="/images/favicon-32x32.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    :root {
+      --bg: #ffffff;
+      --text: #1a1a1a;
+      --text-light: #4b5563;
+      --text-muted: #9ca3af;
+      --accent: #2563eb;
+      --border: #e5e7eb;
+      --border-light: #f3f4f6;
+      --badge-bg: #f9fafb;
+      --nav-bg: rgba(255,255,255,0.95);
+      --max-width: 1060px;
+      --hover-bg: #f8faff;
+      --hover-row-bg: #fafafa;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0; padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 15.5px;
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--accent); text-decoration: none; transition: opacity .15s; }
+    a:hover { opacity: .75; }
+
+    /* ── Nav ── */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: var(--nav-bg);
+      backdrop-filter: saturate(180%) blur(12px);
+      -webkit-backdrop-filter: saturate(180%) blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      display: flex; align-items: center;
+      max-width: var(--max-width);
+      margin: 0 auto; padding: 0 24px;
+    }
+    nav ul {
+      display: flex; gap: 2px;
+      list-style: none; margin: 0; padding: 0;
+    }
+    nav a {
+      position: relative;
+      display: block;
+      padding: 10px 13px;
+      color: var(--text-light);
+      text-decoration: none;
+      font-size: 14px; font-weight: 500;
+      letter-spacing: .01em;
+      border-radius: 6px;
+      transition: color .2s, background .2s;
+    }
+    nav a:hover { color: var(--accent); background: #fef9ec; opacity: 1; }
+    nav a.active { color: var(--accent); background: #fef3c7; font-weight: 600; }
+
+    /* ── Page wrap ── */
+    .wrap {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 44px 32px 72px;
+    }
+
+    /* ── Profile header ── */
+    .profile {
+      display: flex; gap: 44px;
+      align-items: flex-start;
+      margin-bottom: 60px;
+    }
+    .profile-photo-wrap {
+      flex-shrink: 0;
+      width: 168px; height: 200px;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 16px rgba(0,0,0,.08);
+    }
+    .profile-photo {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+    .profile-info { flex: 1; padding-top: 4px; }
+    .profile-info h1 {
+      margin: 0 0 2px;
+      font-size: 30px; font-weight: 700;
+      color: var(--text); letter-spacing: -.02em;
+    }
+    .profile-info .name-cn {
+      font-size: 17px; font-weight: 400;
+      color: var(--text-muted);
+      margin-left: 10px;
+    }
+    .profile-info .position {
+      margin: 6px 0 14px;
+      font-size: 14.5px; color: var(--text-light);
+      line-height: 1.6;
+    }
+    .profile-info .bio {
+      margin: 0 0 18px;
+      font-size: 14.5px; color: var(--text);
+      line-height: 1.75;
+    }
+    .total-cit {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 3px 10px;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 20px;
+      font-size: 12.5px; font-weight: 500;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+    .profile-links { display: flex; flex-wrap: wrap; gap: 7px; }
+    .profile-links a {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 5px 13px;
+      background: var(--badge-bg);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      color: var(--text-light);
+      font-size: 13px; font-weight: 500;
+      transition: all .18s;
+      opacity: 1;
+    }
+    .profile-links a:hover {
+      background: #eff6ff;
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    /* ── Section ── */
+    section { margin-bottom: 60px; scroll-margin-top: 56px; }
+    section h2 {
+      margin: 0 0 22px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #111;
+      font-size: 19px; font-weight: 700;
+      color: var(--text); letter-spacing: -.01em;
+    }
+
+    /* ── News ── */
+    .news-list { list-style: none; margin: 0; padding: 0; }
+    .news-list li {
+      display: flex; gap: 18px;
+      padding: 8px 10px;
+      margin: 0 -10px;
+      border-bottom: 1px solid var(--border-light);
+      border-radius: 6px;
+      font-size: 14px; line-height: 1.65;
+      transition: background .15s;
+    }
+    .news-list li:last-child { border-bottom: none; }
+    .news-list li:hover { background: var(--hover-row-bg); }
+    .news-date {
+      flex-shrink: 0; min-width: 72px;
+      color: var(--text-muted); font-size: 13px; padding-top: 1px;
+    }
+    .news-hidden { display: none; }
+    .news-more-btn {
+      margin-top: 12px;
+      padding: 5px 16px;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px; color: var(--text-muted);
+      cursor: pointer;
+      transition: all .18s;
+    }
+    .news-more-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Papers ── */
+    .paper {
+      display: flex; gap: 24px;
+      padding: 20px 14px;
+      border-bottom: 1px solid var(--border-light);
+      border-radius: 10px;
+      border-left: 3px solid transparent;
+      transition: background .18s, border-color .18s, box-shadow .18s;
+      margin: 0 -14px;
+    }
+    .paper:first-child { padding-top: 0; margin-top: 0; }
+    .paper:last-child { border-bottom: none; }
+    .paper:hover {
+      background: var(--hover-bg);
+      border-left-color: var(--accent);
+      box-shadow: 0 2px 12px rgba(37,99,235,.06);
+    }
+    .paper-img {
+      flex-shrink: 0;
+      width: 200px; height: 132px;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--badge-bg);
+      transition: box-shadow .18s, transform .18s;
+    }
+    .paper:hover .paper-img {
+      box-shadow: 0 4px 16px rgba(0,0,0,.12);
+      transform: scale(1.01);
+    }
+    .paper-body { flex: 1; min-width: 0; }
+    .paper-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 9px; align-items: center; }
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      background: #111;
+      color: #fff;
+      border-radius: 4px;
+      font-size: 11.5px; font-weight: 600;
+      letter-spacing: .04em;
+    }
+    .badge.gray { background: #6b7280; }
+    .paper-title {
+      margin: 0 0 7px;
+      font-size: 15px; font-weight: 600; line-height: 1.45;
+    }
+    .paper-title a { color: var(--text); opacity: 1; }
+    .paper-title a:hover { color: var(--accent); }
+    .paper-authors {
+      margin: 0 0 3px;
+      font-size: 13.5px; color: var(--text-light); line-height: 1.55;
+    }
+    .paper-authors strong { color: var(--text); font-weight: 600; }
+    .paper-venue {
+      margin: 0 0 7px;
+      font-size: 13px; color: var(--text-muted); font-style: italic;
+    }
+    .paper-desc {
+      margin: 0 0 10px;
+      font-size: 13.5px; color: var(--text-light); line-height: 1.65;
+    }
+    .paper-links { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+    .paper-links a {
+      display: inline-block;
+      padding: 3px 10px;
+      background: var(--badge-bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      color: var(--text-light);
+      font-size: 12.5px; font-weight: 500;
+      transition: all .15s; opacity: 1;
+    }
+    .paper-links a:hover {
+      background: #eff6ff; border-color: var(--accent); color: var(--accent);
+    }
+    .paper-links img { vertical-align: middle; }
+    .cit-badge {
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 3px 9px;
+      background: #fefce8; border: 1px solid #fde68a;
+      border-radius: 5px;
+      font-size: 12px; color: #92400e; font-weight: 500;
+    }
+
+    /* ── Education ── */
+    .edu-item {
+      display: flex; gap: 18px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border-light);
+      font-size: 14.5px; align-items: flex-start;
+    }
+    .edu-item:last-child { border-bottom: none; }
+    .edu-logo {
+      flex-shrink: 0; width: 44px; height: 52px;
+      object-fit: contain;
+    }
+    .edu-body { flex: 1; line-height: 1.6; }
+    .edu-body strong { font-weight: 600; color: var(--text); }
+    .edu-body .edu-date { color: var(--text-muted); font-size: 13px; }
+
+    /* ── Honors ── */
+    .honor-item {
+      display: flex; gap: 18px;
+      padding: 8px 10px;
+      margin: 0 -10px;
+      border-bottom: 1px solid var(--border-light);
+      border-radius: 6px;
+      font-size: 14.5px;
+      transition: background .15s;
+    }
+    .honor-item:last-child { border-bottom: none; }
+    .honor-item:hover { background: var(--hover-row-bg); }
+    .honor-year { flex-shrink: 0; color: var(--text-muted); font-size: 13px; min-width: 54px; padding-top: 2px; }
+
+    /* ── Internship ── */
+    .intern-item {
+      display: flex; gap: 18px;
+      padding: 9px 10px;
+      margin: 0 -10px;
+      border-bottom: 1px solid var(--border-light);
+      border-radius: 6px;
+      font-size: 14.5px; line-height: 1.6;
+      transition: background .15s;
+    }
+    .intern-item:last-child { border-bottom: none; }
+    .intern-item:hover { background: var(--hover-row-bg); }
+    .intern-date { flex-shrink: 0; color: var(--text-muted); font-size: 13px; min-width: 130px; padding-top: 2px; }
+
+    /* ── Publication group headers ── */
+    .pub-group-header {
+      margin: 32px 0 14px;
+      padding: 7px 14px;
+      background: var(--border-light);
+      border-left: 4px solid var(--accent);
+      border-radius: 0 6px 6px 0;
+      font-size: 14.5px; font-weight: 700;
+      color: var(--text);
+    }
+    .pub-group-header:first-of-type { margin-top: 4px; }
+    .badge-note {
+      font-size: 11px; font-weight: 500;
+      color: #92400e;
+      background: #fefce8; border: 1px solid #fde68a;
+      border-radius: 4px; padding: 2px 7px;
+    }
+
+    /* ── Service ── */
+    .service-text { font-size: 14.5px; color: var(--text-light); line-height: 1.9; }
+
+    /* ── Visitor map ── */
+    .visitor-section { text-align: center; margin-top: 16px; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center; padding: 28px 24px;
+      border-top: 1px solid var(--border);
+      font-size: 13px; color: var(--text-muted);
+      line-height: 1.8;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--accent); }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      .profile { flex-direction: column; align-items: center; text-align: center; gap: 24px; }
+      .profile-photo-wrap { width: 140px; height: 168px; }
+      .profile-links { justify-content: center; }
+      .paper { flex-direction: column; }
+      .paper-img { width: 100%; height: 180px; }
+      nav ul { flex-wrap: wrap; justify-content: center; }
+      .nav-inner { padding: 0 8px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#internships">Internships</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#honors">Honors</a></li>
+      <li><a href="#service">Service</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="wrap">
+  <!-- ══════════════════ PROFILE ══════════════════ -->
+<section id="about">
+<div class="profile">
+  <div class="profile-photo-wrap">
+    <img class="profile-photo" src="/images/JiehuiHuang.jpg" alt="Jiehui Huang" />
+  </div>
+  <div class="profile-info">
+    <h1>Jiehui Huang <span class="name-cn">黄杰辉</span></h1>
+    <p class="position">
+      PhD Student · <a href="https://cse.hkust.edu.hk/">Dept. of CSE, HKUST</a><br />
+      Supervised by <a href="https://jiaya.me/home">Prof. Jiaya Jia</a>
+    </p>
+    <p class="bio">
+      My research focuses on <strong>physically grounded interactive video generation and world modeling</strong>,
+      controllable generation and editing, and multimodal understanding.
+      My long-term goal is to build controllable multimodal <em>"world simulators"</em> that bridge virtual data and the
+      real physical world, accelerating the evolution of embodied agents across both simulated and real environments —
+      ultimately advancing toward early realizations of digital immortality and machine consciousness.
+      I also contribute to <a href="https://github.com/starVLA/starVLA/tree/starVLA_dev" target="_blank">StarVLA WM4A</a>
+      as an open-source maintainer, and previously received my M.S. from <strong>Sun Yat-sen University</strong>
+      under <a href="https://scholar.google.com/citations?view_op=search_authors&amp;mauthors=xiaodan+liang">Xiaodan Liang</a>
+      and <a href="https://shengcailiao.github.io/">Shengcai Liao</a>.
+      Feel free to reach out via <a href="mailto:jhhuang117@gmail.com">email</a>.
+    </p>
+    <div class="profile-links">
+      <a href="mailto:jhhuang117@gmail.com"><i class="fas fa-envelope fa-sm"></i> Email</a>
+      <a href="https://scholar.google.com/citations?user=111EPmsAAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar <span id="total_cit" style="font-size:11px;opacity:0.75;margin-left:2px"></span></a>
+      <a href="https://github.com/JackAILab" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+      <a href="https://huggingface.co/JackAILab" target="_blank"><i class="fas fa-robot"></i> HuggingFace</a>
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- ══════════════════ NEWS ══════════════════ -->
+<section id="news">
+<h2>News</h2>
+<ul class="news-list">
+  <li><span class="news-date">2025.02</span><span>🎉 <a href="https://jackailab.github.io/Projects/UnityVideo/">UnityVideo</a> was accepted by <strong>CVPR 2026</strong>.</span></li>
+  <li><span class="news-date">2025.12</span><span>🎉 <a href="https://ssugarwh.github.io/consistentid.github.io/">ConsistentID</a> was accepted by <strong>IEEE TPAMI</strong>.</span></li>
+  <li><span class="news-date">2025.12</span><span>Released <a href="https://github.com/dvlab-research/UnityVideo">UnityVideo</a>, a unified multi-modal multi-task video generation model.</span></li>
+  <li class="news-hidden"><span class="news-date">2025.11</span><span>🎉 One paper accepted by <strong>AAAI 2026</strong>.</span></li>
+  <li class="news-hidden"><span class="news-date">2025.07</span><span>🎉 One paper accepted by <strong>ACM MM 2025</strong>.</span></li>
+  <li class="news-hidden"><span class="news-date">2025.01</span><span>🎉 One paper accepted by <strong>IEEE Transactions on Instrumentation &amp; Measurement</strong>.</span></li>
+  <li class="news-hidden"><span class="news-date">2024.11</span><span>Awarded the <strong>National Scholarship</strong> from Sun Yat-sen University.</span></li>
+  <li class="news-hidden"><span class="news-date">2024.04</span><span>Released <a href="https://ssugarwh.github.io/consistentid.github.io/">ConsistentID</a> (✨ 900+ Stars), a high-fidelity customized portrait generation model.</span></li>
+  <li class="news-hidden"><span class="news-date">2023.12</span><span>🎉 Two papers accepted by <strong>AAAI 2024</strong> and <strong>Knowledge-Based Systems</strong>.</span></li>
+  <li class="news-hidden"><span class="news-date">2023.11</span><span>🎉 One paper accepted by <strong>Neurocomputing</strong>.</span></li>
+</ul>
+<button class="news-more-btn" id="news-toggle">Show more</button>
+</section>
+
+<!-- ══════════════════ INTERNSHIPS ══════════════════ -->
+<section id="internships">
+<h2>Internships</h2>
+<div class="intern-item">
+  <span class="intern-date">2025.04 – present</span>
+  <span><a href="https://app.klingai.com">Kling Team</a>, Kuaishou Technology &nbsp;·&nbsp; Collaboration with <a href="https://www.xtao.website/">Tao Xin</a></span>
+</div>
+<div class="intern-item">
+  <span class="intern-date">2024.12 – 2025.03</span>
+  <span><a href="https://hunyuan.tencent.com/">Pixocial Technology</a> &nbsp;·&nbsp; Collaboration with <a href="https://resume.haoxiang.org/">Haoxiang Li</a></span>
+</div>
+<div class="intern-item">
+  <span class="intern-date">2024.04 – 2024.09</span>
+  <span><a href="https://hunyuan.tencent.com/">Tencent Hunyuan Team</a>, TEG, Shenzhen &nbsp;·&nbsp; Collaboration with <a href="https://scholar.google.com/citations?user=Jh_weSQAAAAJ&amp;hl=en" target="_blank">Hu Ye</a></span>
+</div>
+<div class="intern-item">
+  <span class="intern-date">2023.11 – 2024.03</span>
+  <span><a href="https://research.lenovo.com/">Lenovo Research Institute</a>, Shenzhen</span>
+</div>
+<div class="intern-item">
+  <span class="intern-date">2023.07 – 2023.10</span>
+  <span><a href="https://www.sensetime.com/">SenseTime Research</a>, Shenzhen</span>
+</div>
+</section>
+
+<!-- ══════════════════ PUBLICATIONS ══════════════════ -->
+<section id="publications">
+<h2>Selected Publications</h2>
+
+<!-- ── Agentic World Model ── -->
+<div class="pub-group-header">🤖 Agentic World Model</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2025_arXiv_UnityVideo.png" alt="UnityVideo" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge">CVPR 2026</span></div>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2512.07831">UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation</a></p>
+    <p class="paper-authors"><strong>Jiehui Huang</strong>, Yuechen Zhang, Xu He, Yuan Gao, Zhi Cen, Bin Xia, Yan Zhou, Xin Tao, Pengfei Wan, Jiaya Jia</p>
+    <p class="paper-venue">CVPR, 2026</p>
+    <p class="paper-desc">UnityVideo is a unified framework integrating I2V, T2V, and video enhancement into joint training via a modality-adaptive switcher and in-context learner, enabling mutual knowledge transfer across tasks. We release OpenUni (1.3M pairs) and UniBench (30K samples) for unified video model evaluation.</p>
+    <div class="paper-links">
+      <a href="https://arxiv.org/abs/2512.07831">Paper</a>
+      <a href="https://jackailab.github.io/Projects/UnityVideo/">Project</a>
+      <a href="https://github.com/dvlab-research/UnityVideo">Code</a>
+      <a href="https://huggingface.co/JackAILab/UnityVideo">HuggingFace</a>
+      <img src="https://img.shields.io/github/stars/dvlab-research/UnityVideo?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+      <span class="cit-badge" style="display:none"><i class="ai ai-google-scholar" style="font-size:12px"></i> <span data-scholar-title="UnityVideo">—</span></span>
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2025_arXiv_ReCamDriving.gif" alt="ReCamDriving" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge gray">arXiv 2025</span></div>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2508.07603">ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation</a></p>
+    <p class="paper-authors">Yaokun Li, Shuaixian Wang, Mantang Guo, <strong>Jiehui Huang</strong>, Taojun Ding, Mu Hu, Kaixuan Wang, Shaijie Shen, Guang Tan</p>
+    <p class="paper-venue">arXiv, 2025</p>
+    <p class="paper-desc">ReCamDriving achieves camera-controlled novel-trajectory video generation without LiDAR by leveraging 3DGS renderings for structural guidance and precise camera control. We construct ParaDrive, a dataset with 110K+ parallel-trajectory pairs via a novel cross-trajectory data curation strategy.</p>
+    <div class="paper-links">
+      <a href="https://arxiv.org/abs/2508.07603">Paper</a>
+      <a href="https://recamdriving.github.io/">Project</a>
+      <a href="https://github.com/Iron-LYK/ReCamDriving">Code</a>
+      <img src="https://img.shields.io/github/stars/Iron-LYK/ReCamDriving?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2026_arXiv_AgenticWM.png" alt="Agentic World Modeling" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge gray">arXiv 2026</span></div>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2604.22748">Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond</a></p>
+    <p class="paper-authors">AgenticWM Team &nbsp;·&nbsp; <strong>Jiehui Huang</strong> (Contributor)</p>
+    <p class="paper-venue">arXiv, 2026</p>
+    <p class="paper-desc">A comprehensive survey of agentic world modeling organized by a "levels × laws" framework — categorizing capabilities across three levels (Predictor, Simulator, Evolver) and four governing-law regimes (physical, digital, social, scientific). Synthesizing 400+ works spanning RL, video generation, and autonomous agents, we derive evaluation principles and architectural guidance for building systems that can simulate and reshape environments.</p>
+    <div class="paper-links">
+      <a href="https://arxiv.org/abs/2604.22748">Paper</a>
+      <a href="https://github.com/matrix-agent/awesome-agentic-world-modeling" target="_blank">GitHub</a>
+      <img src="https://img.shields.io/github/stars/matrix-agent/awesome-agentic-world-modeling?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/StarVLA_WM4A.png" alt="StarVLA WM4A" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge" style="background:#7c3aed">Open-Source</span></div>
+    <p class="paper-title"><a href="https://huggingface.co/JackAILab/StarVLA_WM4A" target="_blank">StarVLA WM4A: World Model for Agents</a></p>
+    <p class="paper-authors">StarVLA Team &nbsp;·&nbsp; <strong>Jiehui Huang</strong> (WM4A Maintainer)</p>
+    <p class="paper-venue">Open-source project under <a href="https://huggingface.co/StarVLA" target="_blank">StarVLA</a></p>
+    <p class="paper-desc">WM4A (World Model for Agents) is an open-source embodied world model framework built on plug-and-play backbone networks, action heads, unified training strategies, and a standardized benchmark interface. I serve as a maintainer, contributing to model development and ongoing release iterations.</p>
+    <div class="paper-links">
+      <a href="https://github.com/starVLA/starVLA/tree/starVLA_dev/starVLA/model/framework/WM4A">Code</a>
+      <a href="https://huggingface.co/JackAILab/StarVLA_WM4A">HuggingFace</a>
+    </div>
+  </div>
+</div>
+
+<!-- ── Controllable AIGC ── -->
+<div class="pub-group-header">🎨 Controllable AIGC</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2024_Arxiv_ConsistentID.png" alt="ConsistentID" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge">TPAMI</span></div>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2404.16771">ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving</a></p>
+    <p class="paper-authors"><strong>Jiehui Huang</strong>, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao, Xiaodan Liang</p>
+    <p class="paper-venue">IEEE TPAMI, 2025</p>
+    <p class="paper-desc">ConsistentID improves fine-grained facial customization with multimodal facial region descriptions and an ID-preservation network optimized via facial attention localization. We introduce FGID, the first large-scale fine-grained facial identity dataset capturing diverse identity-preserving details.</p>
+    <div class="paper-links">
+      <a href="https://arxiv.org/abs/2404.16771">Paper</a>
+      <a href="https://github.com/JackAILab/ConsistentID">Code</a>
+      <a href="https://huggingface.co/spaces/JackAILab/ConsistentID">Demo</a>
+      <img src="https://img.shields.io/github/stars/JackAILab/ConsistentID?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+      <span class="cit-badge" style="display:none"><i class="ai ai-google-scholar" style="font-size:12px"></i> <span data-scholar-title="ConsistentID">—</span></span>
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2026_ICML_XDub.png" alt="X-Dub" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge">ICML 2026</span></div>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2512.25066">From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping</a></p>
+    <p class="paper-authors">Xu He, Haoxian Zhang, Hejia Chen, Changyuan Zheng, <strong>Jiehui Huang</strong>, et al.</p>
+    <p class="paper-venue">ICML, 2026</p>
+    <p class="paper-desc">X-Dub is a two-stage audio-visual dubbing framework that uses a mask-based inpainting model to generate pseudo-paired training data, then bootstraps a mask-free DiT editing model that operates on full video context. This eliminates masking artifacts while achieving state-of-the-art lip synchronization and visual fidelity for portrait video dubbing.</p>
+    <div class="paper-links">
+      <a href="https://arxiv.org/abs/2512.25066">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2025ACM_LaVieID.png" alt="LaVieID" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge">ACM MM 2025</span></div>
+    <p class="paper-title"><a href="https://github.com/ssugarwh/LaVieID">LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation</a></p>
+    <p class="paper-authors">Wenhui Song, Hanhui Li, <strong>Jiehui Huang</strong>, Panwen Hu, Yuhao Cheng, Long Chen, Yiqiang Yan, Xiaodan Liang</p>
+    <p class="paper-venue">ACM MM, 2025</p>
+    <p class="paper-desc">LaVieID tackles identity-preserving text-to-video generation with a local router extracting fine-grained facial cues for spatial structural guidance and a temporal autoregressive module that models long-range frame dependencies, enabling vivid and identity-consistent video generation.</p>
+    <div class="paper-links">
+      <a href="https://github.com/ssugarwh/LaVieID">Code</a>
+      <img src="https://img.shields.io/github/stars/ssugarwh/LaVieID?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2026_AAAI_Zo3T.png" alt="Zo3T" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge">AAAI 2026</span></div>
+    <p class="paper-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38267">Zero-shot 3D-Aware Trajectory-Guided Image-to-Video Generation via Test-Time Training</a></p>
+    <p class="paper-authors">Ruicheng Zhang, Jun Zhou, Zunnan Xu, Zihao Liu, <strong>Jiehui Huang</strong>, Mingyang Zhang, Yu Sun, Xiu Li</p>
+    <p class="paper-venue">AAAI, 2026</p>
+    <p class="paper-desc">Zo3T enables zero-shot 3D-aware trajectory-guided image-to-video generation via lightweight test-time LoRA modules that adaptively guide generation without target-domain training. Noise score re-evaluation enforces trajectory fidelity during latent manipulation.</p>
+    <div class="paper-links">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38267">Paper</a>
+      <a href="https://github.com/Richard-Zhang-AI/Zo3T-main">Code</a>
+      <img src="https://img.shields.io/github/stars/Richard-Zhang-AI/Zo3T-main?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+    </div>
+  </div>
+</div>
+
+<!-- ── Other Insightful Projects ── -->
+<div class="pub-group-header">📊 Other Insightful Projects</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2024KBS_TMBL.png" alt="TMBL" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge gray">KBS 2024</span><span class="badge-note">Domain Baseline</span></div>
+    <p class="paper-title"><a href="https://doi.org/10.1016/j.knosys.2023.111346">TMBL: Transformer-based Multimodal Binding Learning for Multimodal Sentiment Analysis</a></p>
+    <p class="paper-authors"><strong>Jiehui Huang</strong>, Jun Zhou, Zhenchao Tang, Jiaying Lin, Calvin Yu-Chian Chen</p>
+    <p class="paper-venue">Knowledge-Based Systems, 2024</p>
+    <p class="paper-desc">TMBL redesigns the Transformer with a CLIP-inspired cross-modal binding mechanism to reduce modal heterogeneity in multimodal sentiment analysis. CLS and position embeddings explicitly distinguish modal spaces, achieving a 6% improvement in ACC over prior methods.</p>
+    <div class="paper-links">
+      <a href="https://doi.org/10.1016/j.knosys.2023.111346">Paper</a>
+      <a href="https://github.com/JackAILab/TMBL">Code</a>
+      <img src="https://img.shields.io/github/stars/JackAILab/TMBL?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+      <span class="cit-badge" style="display:none"><i class="ai ai-google-scholar" style="font-size:12px"></i> <span data-scholar-title="TMBL">—</span></span>
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2024Neurocomputing_DTP.jpg" alt="DTPNet" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge gray">Neurocomputing 2024</span></div>
+    <p class="paper-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122301189X">Progressive Network based on Detail Scaling and Texture Extraction for Image Deraining</a></p>
+    <p class="paper-authors"><strong>Jiehui Huang</strong>, Zhenchao Tang, Xuedong He, Jun Zhou, Defeng Zhou, Calvin Yu-Chian Chen</p>
+    <p class="paper-venue">Neurocomputing, 2024</p>
+    <p class="paper-desc">DTPNet proposes a progressive deraining framework with a detail scaling module and enhanced Transformer blocks for generalized feature extraction from degraded images, achieving SOTA on SPA-Data, RainDrop, RID, and Rain100.</p>
+    <div class="paper-links">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122301189X">Paper</a>
+      <a href="https://github.com/JackAILab/DTPNet">Code</a>
+      <img src="https://img.shields.io/github/stars/JackAILab/DTPNet?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+    </div>
+  </div>
+</div>
+
+<div class="paper">
+  <img class="paper-img" src="/images/publications/2024AAAI_CoVL.png" alt="CoVEL" />
+  <div class="paper-body">
+    <div class="paper-badges"><span class="badge">AAAI 2024</span></div>
+    <p class="paper-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29453">Comprehensive View Embedding Learning for Single-cell Multimodal Integration</a></p>
+    <p class="paper-authors">Zhenchao Tang, <strong>Jiehui Huang</strong>, Guanxing Chen, Pengfei Wen, Calvin Yu-Chian Chen</p>
+    <p class="paper-venue">AAAI, 2024</p>
+    <p class="paper-desc">CoVEL performs single-cell multimodal integration via three-view embedding learning capturing cross-modal regulatory relationships and fine-grained single-cell features through self-supervised contrastive learning, effectively bridging heterogeneous feature spaces.</p>
+    <div class="paper-links">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29453">Paper</a>
+      <a href="https://github.com/JackAILab/scintegration">Code</a>
+      <img src="https://img.shields.io/github/stars/JackAILab/scintegration?style=flat&amp;logo=github&amp;labelColor=%23555&amp;color=%23333" alt="stars" style="height:20px;border-radius:4px" />
+    </div>
+  </div>
+</div>
+
+</section>
+
+<!-- ══════════════════ EDUCATION ══════════════════ -->
+<section id="education">
+<h2>Education</h2>
+<div class="edu-item">
+  <img class="edu-logo" src="/images/Schools/HKUST.png" alt="HKUST" />
+  <div class="edu-body">
+    <strong>Hong Kong University of Science and Technology</strong><br />
+    Ph.D. in Artificial Intelligence, Dept. of CSE<br />
+    <span class="edu-date">2025.09 – present</span>
+  </div>
+</div>
+<div class="edu-item">
+  <img class="edu-logo" src="/images/Schools/SYSU.jpg" alt="SYSU" />
+  <div class="edu-body">
+    <strong>Sun Yat-sen University</strong><br />
+    M.S. in Artificial Intelligence, School of Intelligent Systems Engineering<br />
+    <span class="edu-date">2022.09 – 2025.06</span>
+  </div>
+</div>
+</section>
+
+<!-- ══════════════════ HONORS ══════════════════ -->
+<section id="honors">
+<h2>Honors &amp; Awards</h2>
+<div class="honor-item"><span class="honor-year">2025.06</span><span>Outstanding Graduate, Sun Yat-sen University</span></div>
+<div class="honor-item"><span class="honor-year">2024.11</span><span>China National Scholarship, Sun Yat-sen University</span></div>
+<div class="honor-item"><span class="honor-year">2023.10</span><span>First Prize Scholarship, Sun Yat-sen University</span></div>
+<div class="honor-item"><span class="honor-year">2021.11</span><span>China National Scholarship</span></div>
+<div class="honor-item"><span class="honor-year">2021.08</span><span>CIMC Siemens Cup China Intelligent Manufacturing Challenge — National First Prize</span></div>
+<div class="honor-item"><span class="honor-year">2020.08</span><span>RoboMaster Infantry Group — National First Prize</span></div>
+<div class="honor-item"><span class="honor-year">2020.02</span><span>Invention Patent: Non-blocking Controllable Projectile Launch System</span></div>
+</section>
+
+<!-- ══════════════════ SERVICE ══════════════════ -->
+<section id="service">
+<h2>Academic Service</h2>
+<p class="service-text">
+  <strong>Conference Reviewer:</strong> CVPR, ECCV, AAAI, ACM MM, AISTATS<br />
+  <strong>Journal Reviewer:</strong> TPAMI, TVCG, TIP, TIM, Knowledge-Based Systems
+</p>
+
+<!-- Visitor map — replace 'placeholder' with your clustrmaps site ID -->
+<div class="visitor-section">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=slHla16JxJqXiFjUHWBfCzyYqXI2cZW8zQ0sL4jlTuI&amp;cl=ffffff&amp;w=a"></script>
+</div>
+</section>
+
+</div>
+
+<footer>
+  Design inspired by <a href="https://jonbarron.info/" target="_blank">Jon Barron's website</a>
+  &nbsp;·&nbsp;
+  Beautified by <a href="https://claude.ai/code" target="_blank">Claude Code</a>
+  &nbsp;·&nbsp;
+  &copy; 2026 Jiehui Huang
+</footer>
+
+<script>
+(function () {
+  // ── Active nav on scroll ──
+  var sections = document.querySelectorAll('section[id]');
+  var navLinks = document.querySelectorAll('nav a[href^="#"]');
+  var observer = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) {
+        navLinks.forEach(function (a) { a.classList.remove('active'); });
+        var link = document.querySelector('nav a[href="#' + e.target.id + '"]');
+        if (link) link.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-20% 0px -70% 0px' });
+  sections.forEach(function (s) { observer.observe(s); });
+
+  // ── News show more/less ──
+  var btn = document.getElementById('news-toggle');
+  if (btn) {
+    btn.addEventListener('click', function () {
+      var hidden = document.querySelectorAll('.news-hidden');
+      var isShowing = hidden[0] && hidden[0].style.display === 'flex';
+      hidden.forEach(function (el) { el.style.display = isShowing ? 'none' : 'flex'; });
+      btn.textContent = isShowing ? 'Show more' : 'Show less';
+    });
+  }
+
+  // ── Google Scholar citations ──
+  var gsUrl = 'https://raw.githubusercontent.com/JackAILab/JackAILab.github.io/google-scholar-stats/gs_data.json';
+  fetch(gsUrl).then(function (r) { return r.json(); }).then(function (data) {
+    // total
+    var totalEl = document.getElementById('total_cit');
+    if (totalEl && data.citedby) totalEl.textContent = data.citedby + ' citations';
+    // per-paper: title-based fuzzy match
+    document.querySelectorAll('[data-scholar-title]').forEach(function (el) {
+      var keyword = el.getAttribute('data-scholar-title').toLowerCase();
+      var best = null;
+      Object.values(data.publications || {}).forEach(function (pub) {
+        var t = (pub.bib && pub.bib.title || '').toLowerCase();
+        if (t.includes(keyword) && pub.num_citations != null) {
+          if (!best || pub.num_citations > best.num_citations) best = pub;
+        }
+      });
+      if (best) {
+        el.textContent = best.num_citations;
+        var badge = el.closest('.cit-badge');
+        if (badge) badge.style.display = 'inline-flex';
+      }
+    });
+  }).catch(function () {});
+})();
+</script>
+
+</body>
+</html>
