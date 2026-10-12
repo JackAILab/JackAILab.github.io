@@ -1,0 +1,217 @@
+{
+  "citedby": 480,
+  "updated": "2026-10-12T00:00:00Z",
+  "source": "https://scholar.google.com/citations?user=111EPmsAAAAJ&hl=en&pagesize=100",
+  "publications": {
+    "TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis": {
+      "bib": {
+        "title": "TMBL: Transformer-based multimodal binding learning model for multimodal sentiment analysis"
+      },
+      "num_citations": 201,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:IjCSPb-OGe4C"
+    },
+    "Consistentid: Portrait generation with multimodal fine-grained identity preserving": {
+      "bib": {
+        "title": "Consistentid: Portrait generation with multimodal fine-grained identity preserving"
+      },
+      "num_citations": 65,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:u-x6o8ySG0sC"
+    },
+    "Parkinson's severity diagnosis explainable model based on 3D multi-head attention residual network": {
+      "bib": {
+        "title": "Parkinson's severity diagnosis explainable model based on 3D multi-head attention residual network"
+      },
+      "num_citations": 23,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:2osOgNQ5qMEC"
+    },
+    "Spiral-based chaotic chicken swarm optimization algorithm for parameters identification of photovoltaic models": {
+      "bib": {
+        "title": "Spiral-based chaotic chicken swarm optimization algorithm for parameters identification of photovoltaic models"
+      },
+      "num_citations": 21,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:W7OEmFMy1HYC"
+    },
+    "Comprehensive view embedding learning for single-cell multimodal integration": {
+      "bib": {
+        "title": "Comprehensive view embedding learning for single-cell multimodal integration"
+      },
+      "num_citations": 19,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:UeHWp8X0CEIC"
+    },
+    "Progressive network based on detail scaling and texture extraction: A more general framework for image deraining": {
+      "bib": {
+        "title": "Progressive network based on detail scaling and texture extraction: A more general framework for image deraining"
+      },
+      "num_citations": 19,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:qjMakFHDy7sC"
+    },
+    "Unityvideo: Unified multi-modal multi-task learning for enhancing world-aware video generation": {
+      "bib": {
+        "title": "Unityvideo: Unified multi-modal multi-task learning for enhancing world-aware video generation"
+      },
+      "num_citations": 14,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:0EnyYjriUFMC"
+    },
+    "A decomposition‐based multi‐time dimension long short‐term memory model for short‐term electric load forecasting": {
+      "bib": {
+        "title": "A decomposition‐based multi‐time dimension long short‐term memory model for short‐term electric load forecasting"
+      },
+      "num_citations": 13,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:u5HHmVD_uO8C"
+    },
+    "Agentic world modeling: Foundations, capabilities, laws, and beyond": {
+      "bib": {
+        "title": "Agentic world modeling: Foundations, capabilities, laws, and beyond"
+      },
+      "num_citations": 12,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:kNdYIx-mwKoC"
+    },
+    "A novel decomposition-based ensemble model for short-term load forecasting using hybrid artificial neural networks: A novel decomposition-based ensemble model for short-term …": {
+      "bib": {
+        "title": "A novel decomposition-based ensemble model for short-term load forecasting using hybrid artificial neural networks: A novel decomposition-based ensemble model for short-term …"
+      },
+      "num_citations": 12,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:zYLM7Y9cAGgC"
+    },
+    "A decomposition-based approximate entropy cooperation long short-term memory ensemble model for short-term load forecasting": {
+      "bib": {
+        "title": "A decomposition-based approximate entropy cooperation long short-term memory ensemble model for short-term load forecasting"
+      },
+      "num_citations": 12,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:Tyk-4Ss8FVUC"
+    },
+    "Modal-NexT: Towards unified heterogeneous cellular data integration": {
+      "bib": {
+        "title": "Modal-NexT: Towards unified heterogeneous cellular data integration"
+      },
+      "num_citations": 7,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:8k81kl-MbHgC"
+    },
+    "Zo3t: Zero-shot 3d-aware trajectory-guided image-to-video generation via test-time training": {
+      "bib": {
+        "title": "Zo3t: Zero-shot 3d-aware trajectory-guided image-to-video generation via test-time training"
+      },
+      "num_citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:YOwf2qJgpHMC"
+    },
+    "Multimodal Identification of Alzheimer's Disease: A Review": {
+      "bib": {
+        "title": "Multimodal Identification of Alzheimer's Disease: A Review"
+      },
+      "num_citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:hqOjcs7Dif8C"
+    },
+    "A novel hybrid predictive model for ultra-short-term wind speed prediction": {
+      "bib": {
+        "title": "A novel hybrid predictive model for ultra-short-term wind speed prediction"
+      },
+      "num_citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:9yKSN-GCB0IC"
+    },
+    "A multi-view ensemble width-depth neural network for short-term wind power forecasting": {
+      "bib": {
+        "title": "A multi-view ensemble width-depth neural network for short-term wind power forecasting"
+      },
+      "num_citations": 6,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:Y0pCki6q_DkC"
+    },
+    "From Inpainting to Editing: A Self-Bootstrapping Paradigm for Context-Rich Visual Dubbing": {
+      "bib": {
+        "title": "From Inpainting to Editing: A Self-Bootstrapping Paradigm for Context-Rich Visual Dubbing"
+      },
+      "num_citations": 5,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:3fE2CSJIrl8C"
+    },
+    "Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training": {
+      "bib": {
+        "title": "Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training"
+      },
+      "num_citations": 5,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:MXK_kJrjxJIC"
+    },
+    "A decomposition-based improved broad learning system model for short-term load forecasting": {
+      "bib": {
+        "title": "A decomposition-based improved broad learning system model for short-term load forecasting"
+      },
+      "num_citations": 5,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:d1gkVwhDpl0C"
+    },
+    "UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating": {
+      "bib": {
+        "title": "UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating"
+      },
+      "num_citations": 4,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:Zph67rFs4hoC"
+    },
+    "scProtoTransformer: Scalable reference mapping across molecules, cells, and donors": {
+      "bib": {
+        "title": "scProtoTransformer: Scalable reference mapping across molecules, cells, and donors"
+      },
+      "num_citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:4TOpqqG69KYC"
+    },
+    "ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation": {
+      "bib": {
+        "title": "ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation"
+      },
+      "num_citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:5nxA0vEk-isC"
+    },
+    "A novel end-to-end 3-D residual and attention enhancement joint few-shot learning model for Huntington clinical assessment": {
+      "bib": {
+        "title": "A novel end-to-end 3-D residual and attention enhancement joint few-shot learning model for Huntington clinical assessment"
+      },
+      "num_citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:_FxGoFyzp5QC"
+    },
+    "A hybrid generative adversarial network model for ultra short-term wind speed prediction": {
+      "bib": {
+        "title": "A hybrid generative adversarial network model for ultra short-term wind speed prediction"
+      },
+      "num_citations": 3,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:YsMSGLbcyi4C"
+    },
+    "Bridgeiv: Bridging customized image and video generation through test-time autoregressive identity propagation": {
+      "bib": {
+        "title": "Bridgeiv: Bridging customized image and video generation through test-time autoregressive identity propagation"
+      },
+      "num_citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:roLk4NBRz8UC"
+    },
+    "Lavieid: Local autoregressive diffusion transformers for identity-preserving video creation": {
+      "bib": {
+        "title": "Lavieid: Local autoregressive diffusion transformers for identity-preserving video creation"
+      },
+      "num_citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:UebtZRa9Y70C"
+    },
+    "Composeanyone: Controllable layout-to-human generation with decoupled multimodal conditions": {
+      "bib": {
+        "title": "Composeanyone: Controllable layout-to-human generation with decoupled multimodal conditions"
+      },
+      "num_citations": 2,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:ufrVoPGSRksC"
+    },
+    "Color attention tracking with score matching": {
+      "bib": {
+        "title": "Color attention tracking with score matching"
+      },
+      "num_citations": 1,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:WF5omc3nYNoC"
+    },
+    "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models": {
+      "bib": {
+        "title": "PhysEditWorld: A Large-Scale Dataset Toward Physics-Editable World Models"
+      },
+      "num_citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:KlAtU1dfN6UC"
+    },
+    "ViPerID: Video Personalization via Disentangled Identity Learning": {
+      "bib": {
+        "title": "ViPerID: Video Personalization via Disentangled Identity Learning"
+      },
+      "num_citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=111EPmsAAAAJ&pagesize=100&citation_for_view=111EPmsAAAAJ:ULOm3_A8WrAC"
+    }
+  }
+}
